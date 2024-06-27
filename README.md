@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ganesh L</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **DSA and WEB Dev Frameworks**
+- 🌱 I’m currently learning **DSA, WEB and Mobile App development**
 
 - 👨‍💻 All of my projects are available at [lgsdevfolio.netlify.app](lgsdevfolio.netlify.app)
 
-- 💬 Ask me about **Android, Java, Web Development**
+- 💬 Ask me about **Javascript, Java, Python and Web Development**
 
 - 📫 How to reach me **lganeshsarva@gmail.com**
 
